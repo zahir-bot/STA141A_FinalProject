@@ -8,10 +8,11 @@ This project analyzes wildfire data to predict notable wildfire occurrences acro
 ## Repository Contents
 * `wildfire_project-10.Rmd`: The source R Markdown script used for analysis.
 * `wildfire_project-10.html`: The final knitted report.
-* `wildfires_sample_100k.csv`: The dataset used for the analysis.
+* `wildfires_sample_100k.csv.zip`: The dataset used for the analysis.
 
 ## Instructions for Reproducibility
 To reproduce the findings in this report:
 1. Ensure the dataset `wildfires_sample_100k.csv` is in the same directory as the `.Rmd` file.
-2. Open `wildfire_project-10.Rmd` in RStudio.
-3. Knit the file to generate the HTML output.
+2. The dataset wildfires_sample_100k.csv has been zipped to meet GitHub file size limits. Please extract the CSV into the project folder before running the R Markdown script.
+3. Open `wildfire_project-10.Rmd` in RStudio.
+4. Knit the file to generate the HTML output.
