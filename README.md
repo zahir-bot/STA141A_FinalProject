@@ -12,7 +12,6 @@ This project analyzes wildfire data to predict notable wildfire occurrences acro
 
 ## Instructions for Reproducibility
 To reproduce the findings in this report:
-1. To run this analysis, first download the dataset wildfires_sample_100k.csv from https://canvas.ucdavis.edu/courses/1042130/files/29718415?wrap=1 and place it in the project root folder.
-2. Ensure the dataset `wildfires_sample_100k.csv` is in the same directory as the `.Rmd` file.
-3. Open `wildfire_project-10.Rmd` in RStudio.
-4. Knit the file to generate the HTML output.
+1. Ensure the dataset `wildfires_sample_100k.csv` is in the same directory as the `.Rmd` file.
+2. Open `wildfire_project-10.Rmd` in RStudio.
+3. Knit the file to generate the HTML output.
