@@ -18,4 +18,4 @@ To reproduce the findings in this report:
 1. Extract wildfires_sample_100k.csv.zip into the project folder.
 2. Ensure all three climdiv-*.txt files are in the same folder as the .Rmd — the code auto-detects them by filename prefix. If absent, the model runs without climate features.
 3. Open wildfire_project.Rmd in RStudio.
-4. Knit to HTML. Runtime is approximately 5–10 minutes due to XGBoost training and 1,000-resample bootstrap.
+4. Knit to HTML. Runtime is approximately 3-5 minutes due to XGBoost training and 1,000-resample bootstrap.
