@@ -3,7 +3,7 @@
 **Date:** March 16, 2026
 
 ## View Report
-**[Click here to view the full interactive report](https://htmlpreview.github.io/?https://github.com/zahir-bot/STA141A_FinalProject/blob/main/Wildfire_project_final.html)**
+**[Click here to view the report](https://htmlpreview.github.io/?https://github.com/zahir-bot/STA141A_FinalProject/blob/main/Wildfire_project_final.html)**
 
 ---
 
