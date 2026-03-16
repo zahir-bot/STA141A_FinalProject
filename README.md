@@ -2,11 +2,6 @@
 **Author:** Zahir Sabbah  
 **Date:** March 16, 2026
 
-## View Report
-**[Click here to view the report](https://htmlpreview.github.io/?https://github.com/zahir-bot/STA141A_FinalProject/blob/main/Wildfire_project_final.html)**
-
----
-
 ## Project Overview
 This project develops a binary classification model to predict the monthly occurrence of notable wildfires (≥300 acres) across U.S. counties from 1992–2015. Using 1.88 million wildfire records aggregated to the county-month level, it engineers temporal, spatial, and lagged features and compares logistic regression to an XGBoost classifier. The central argument is that recall — not AUC — is the appropriate primary metric for hazard prediction tasks where false negatives and false positives carry asymmetric costs. XGBoost achieves 64.1% recall versus logistic regression's 8.4% through deliberate imbalance correction, while three NOAA nClimDiv climate variables (PDSI, temperature, precipitation) are integrated as external features with a bootstrapped AUC improvement of +0.0076 [95% CI: +0.0011, +0.0146].
 
